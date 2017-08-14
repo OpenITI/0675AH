@@ -12,13 +12,18 @@ I chose Shamela as there has all the 12 Volumes wheras JK is missing two. Also t
 http://ia802608.us.archive.org/19/items/waq8275waq8275/8275.pdf
 paginiation is the same -> all volumes in one file
 
+
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-Type your response here.
+No typos found.
 
 ## 4. Add any comments on the text
 
-bis V1 page 309
+Quality of the text was good. Basically everything was marked, so I just had to change the tags to give it a structure.
+
+Volumes 2 -10 are biographies, 11 & 12 are tabels
+
+
 
 ## 5. ...
 
