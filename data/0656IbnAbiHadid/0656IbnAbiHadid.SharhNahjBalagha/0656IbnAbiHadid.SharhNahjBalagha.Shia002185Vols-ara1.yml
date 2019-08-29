@@ -5,7 +5,12 @@
 80#VERS#LINKS####: Used physical edition.
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: Couldn't find a pdf version, so worked with the printed edition in AKU-ISMC library. 
- Pagination is correct. A title was missing from the text file so I added it. There are footnote markers in the text, and html-hyperlinks
- to Quranic citations. 
+ Pagination is correct and paragraphs usually are as well.  There are footnote markers in the text, and html-hyperlinks to Quranic citations. 
+ From the end of the second volume onwards the typist didn't write all section markers for asl and sharh and did not mark
+ some such headers between square brackets, so I have tended to correct these to improve text structure. Poetry has not been formatted. In volume three some of 
+ headers in square brackets differ from those used in the pdf-edition, although they refer to the same subjects.
+
+ 
+ 
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: FOOTNOTES, HTML_TAGS
