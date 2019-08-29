@@ -2,12 +2,10 @@
 00#VERS#URI######: 0656IbnAbiHadid.SharhNahjBalagha.Shia002185Vols-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#LINKS####: Used physical edition.
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Couldn't find a pdf version, so worked with the printed edition in AKU-ISMC library. 
+ Pagination is correct. A title was missing from the text file so I added it. There are footnote markers in the text, and html-hyperlinks
+ to Quranic citations. 
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: FOOTNOTES, HTML_TAGS
