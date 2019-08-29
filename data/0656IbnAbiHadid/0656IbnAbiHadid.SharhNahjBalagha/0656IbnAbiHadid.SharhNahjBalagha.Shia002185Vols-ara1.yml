@@ -7,8 +7,11 @@
 90#VERS#COMMENT##: Couldn't find a pdf version, so worked with the printed edition in AKU-ISMC library. 
  Pagination is correct and paragraphs usually are as well.  There are footnote markers in the text, and html-hyperlinks to Quranic citations. 
  From the end of the second volume onwards the typist didn't write all section markers for asl and sharh and did not mark
- some such headers between square brackets, so I have tended to correct these to improve text structure. Poetry has not been formatted. In volume three some of 
- headers in square brackets differ from those used in the pdf-edition, although they refer to the same subjects.
+ some such headers between square brackets, so I have tended to correct these to improve logical text structure. Poetry has not been formatted. In volume three some of 
+ headers in square brackets differ from those used in the pdf-edition, although they refer to the same subjects. At the start of each volume the typist
+ has copied some editorial data. I have used the editor tag to distinguish this, and followed it by an empty header tag to denote where the text picks up again.
+ Numbering of sections is inconsistent both in being actually numbered and in whether Arabic or Latin numerals are used -- I have not corrected this.
+ 
 
  
  
