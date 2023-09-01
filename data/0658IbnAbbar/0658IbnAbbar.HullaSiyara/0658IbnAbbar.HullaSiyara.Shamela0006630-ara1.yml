@@ -5,9 +5,12 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770481489
 80#VERS#LINKS####: https://archive.org/details/Hullah/Hulla1/
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, README.md for details.
-    NOTE OF THE REVIEWER (HRH): Levelling of the headers corrected. PARATEXT added.
+        See, README.md for details.
+        NOTE OF THE REVIEWER (HRH): Levelling of the headers corrected. PARATEXT added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PAGINATION (PageV00P000)
+90#VERS#ISSUES###: PAGINATION (PageV00P000), PRIMARY_VERSION, CLEANED_VERSION

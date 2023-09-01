@@ -1,7 +1,7 @@
 ﻿######OpenITI#
 
 #META# author: Naṣīr al-Dīn al-Ṭūsī
-#META# image_url: 
+#META# image_url:
 #META# siglum: C.1.1250
 #META# source: Istanbul Nuruosmaniye 2941
 #META# title: Taḥrīr al-Majisṭī
@@ -68,7 +68,7 @@ URL = http://ptolemaeus.badw.de/ms/717/1068/transcription/1
 
 # sl: supra lineam.
 
-### | 
+### |
 # أحمد الله مبدأ كل مبدأ وغاية كل غاية ومفيض كل خير وولي
 ~~كل هداية وأرجو حسن توفيقه في كل بداية ونهاية وأصلي على عباده
 ~~المخصوصين بالعناية والدراية سيما † محمد † وآله الموسومين بالنبوة
@@ -1056,174 +1056,3 @@ URL = http://ptolemaeus.badw.de/ms/717/1068/transcription/1
 ~~به فوجدناها هكذا وسائر الأنواع كهذا الربع تمت المقالة الأولى
 
 PageV01P013B
-
-### |EDITOR|
-ENDNOTES
-
-# (¬1) must be corrected to وبعد
-
-# (¬2) must be corrected to مقاصد
-
-# (¬3) something crossed out in N, like هي .
-
-# (¬4) must be corrected to بادئ .
-
-# (¬5) و add sl
-
-# (¬6) add mg
-
-# (¬7) om DLP
-
-# (¬8) اختلاف DLP
-
-# (¬9) add mg N om DLP
-
-# (¬10) add mg
-
-# (¬11) -11 add mg
-
-# (¬12) sl
-
-# (¬13) أكر DLP
-
-# (¬14) must be corrected to تختلف .
-
-# (¬15) بتساوي DLP
-
-# (¬16) must be corrected to المنطقتين .
-
-# (¬17) أجزائهما المرتبة P أجزائهما المتربتة L أجزائها المرتبة D
-
-# (¬18) must be corrected to ز د .
-
-# (¬19) mg ه ب ق
-
-# (¬20) add mg † ... †
-
-# (¬21) add mg † ... †
-
-# (¬22) add mg بج بج
-
-# (¬23) must be corrected to تسهل
-
-# (¬24) must be corrected to لتكن .
-
-# (¬25) add mg
-
-# (¬26) add mg
-
-# (¬27) وفي N
-
-# (¬28) وبهذا N
-
-# (¬29) المحصلة P
-
-# (¬30) -30 add mg
-
-# (¬31) ا ج N
-
-# (¬32) جداول قسمها في الطول DLP
-
-# (¬33) وجزئي DLP
-
-# (¬34) خطين DLP
-
-# (¬35) بوترها DLP
-
-# (¬36) Perhaps preferable is نقسم
-
-# (¬37) ناحيت N
-
-# (¬38) ما add DLP
-
-# (¬39) DLP have أرسطالس , but give in the margin as variant the text from N (among other variants). The reading of N, however, is the correct one; al-Ṭūsī cites Almagest I.12, ed. Heiberg, p. 68:3-6, where Ptolemy refers to this value that stems from Eratosthenes.
-
-# (¬40) قاعدة كما أن تقدير الكمية المنفصلة يتم إلا بعروض بعض لوازم الكمية المنفصلة لها مثل فرض تجزئتها إلى غير ... كذلك لا يتأتي تقدير الكمية المتصلة إلا بعروض لوازم الكمية المنفصلة لها وهو وتركيبها من ... مفروضة تقدر بما تلك المقادير add mg N
-
-# (¬41) ونسبة ا إلى ب مؤلفة من نسبة ا إلى ج ومن نسبة ج إلى ب ونسبة ج إلى ب مؤلفة ms35 من نسبة ج إلى ا ومن نسبة ا إلى ب add mg N
-
-# (¬42) must be corrected to ولتكن .
-
-# (¬43) فبالمسواة N
-
-# (¬44) eras N
-
-# (¬45) فتضعيف DP
-
-# (¬46) ح نفسه DLP
-
-# (¬47) قدر add DLP
-
-# (¬48) must be corrected to تساويها
-
-# (¬49) must be corrected to الباقية
-
-# (¬50) eras N
-
-# (¬51) من DLP
-
-# (¬52) must be corrected to متساويين
-
-# (¬53) must be corrected to تكون
-
-# (¬54) must be corrected to فتكون
-
-# (¬55) must be corrected to تكون
-
-# (¬56) must be corrected to فتكون
-
-# (¬57) السطحي add DLP
-
-# (¬58) ب ا DLP
-
-# (¬59) must be corrected to خمس
-
-# (¬60) must be corrected to ت لازمها
-
-# (¬61) mg N, على مركز محيكها نقط DLP
-
-# (¬62) must be corrected to وأما
-
-# (¬63) must be corrected to تكون
-
-# (¬64) ا ج ا N
-
-# (¬65) ل ا N
-
-# (¬66) الذي DLP
-
-# (¬67) أوله mg N
-
-# (¬68) must be corrected to تكون
-
-# (¬69) بطرفها DLP
-
-# (¬70) mg N
-
-# (¬71) التفاضلات DLP
-
-# (¬72) ضلعيها DLP
-
-# (¬73) قسي DLP
-
-# (¬74) زا وية N
-
-# (¬75) نسبة جيب ه ز في مثلث ج ه ز الذي هو تمام زاوية ا إلى جيب ج ز الذي هو تمام ضلع ب ج كنسبة جيب زاوية ج إلى جيب القائمة وأما الفرع الأول الظلي فهو أن نسبة جيب تمام زاوية ا إلى جيب القائمة كنسبة ظل تمام ا ج إلى ظل تمام ا ب وذلك لأن add DLP
-
-# (¬76) must be corrected to ولتمر
-
-# (¬77) نسبت N
-
-# (¬78) نسبت N
-
-# (¬79) add mg
-
-# (¬80) ما مر N
-
-# (¬81) ما مر N
-
-# (¬82) om. DLP
-
-# (¬83) ما مر N
-
-# (¬84) الأول add DLP ms36
