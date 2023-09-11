@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0656IbnAbiHadid.RawdaMukhtara
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: al-Rawḍaŧ al-muḫtāraŧ
+10#BOOK#TITLEB#AR: al-Qaṣāʾid al-hāšimiyyāt wa-al-qaṣāʾid al-ʿalawiyyāt
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
