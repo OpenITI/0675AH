@@ -22,5 +22,7 @@
     empty header tag to denote where the text picks up again. Numbering of
     sections is inconsistent both in being actually numbered and in whether
     Arabic or Latin numerals are used -- I have harmonised these.
+    PV removed endnotes and replaced HTML tags for Quran citations
+    with OpenITI tags `@QUR@<sura_no>.<aya_no>@0<number_of_tokens>`
 90#VERS#DATE#####: 2019-09-25
-90#VERS#ISSUES###: FOOTNOTES, HTML_TAGS
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
