@@ -6,9 +6,11 @@
 80#VERS#LINKS####: 
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: OCRed through Kraken; arabPers-WithDiffTypefaces.mlmodel.
-        PV removed footnotes and added page numbers, structural headers.
+    PV removed footnotes and added page numbers, structural headers.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0675AH/pre-clean/data/0651IbnYusufAbuCabbasTifashi/0651IbnYusufAbuCabbasTifashi.NuzhatAlbab/0651IbnYusufAbuCabbasTifashi.NuzhatAlbab.Kraken21042915-ara1
 90#VERS#DATE#####: 
 90#VERS#ISSUES###: POETRY, UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
