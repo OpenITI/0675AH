@@ -1,11 +1,11 @@
-00#VERS#CLENGTH##: 38929
-00#VERS#LENGTH###: 10617
+00#VERS#CLENGTH##: 38142
+00#VERS#LENGTH###: 10400
 00#VERS#URI######: 0672NasirDinTusi.TahrirMajisti.PAL071701068-ara1
-80#VERS#BASED####: 
+80#VERS#BASED####:
     https://ptolemaeus.badw.de/ms/717/1068/transcription/1
-80#VERS#COLLATED#: 
+80#VERS#COLLATED#:
     https://ptolemaeus.badw.de/ms/717/1068/transcription/1
-80#VERS#LINKS####: 
+80#VERS#LINKS####:
     https://ptolemaeus.badw.de/ms/717/1068/transcription/1
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: Transcription of the Istanbul ms. (Nurosmaniye 2941)
@@ -23,6 +23,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0675AH/pre-clean/data/0672NasirDinTusi/0672NasirDinTusi.TahrirMajisti/0672NasirDinTusi.TahrirMajisti.PAL071701068-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0675AH/pre-
+    clean/data/0672NasirDinTusi/0672NasirDinTusi.TahrirMajisti/0672NasirDinTusi.TahrirMajisti.PAL071701068-ara1.completed
 90#VERS#DATE#####: 2020-12-02
 90#VERS#ISSUES###: IMAGES, PRIMARY_VERSION, CLEANED_VERSION
