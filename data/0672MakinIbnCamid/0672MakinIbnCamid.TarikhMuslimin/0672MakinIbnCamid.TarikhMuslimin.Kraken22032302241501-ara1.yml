@@ -1,21 +1,18 @@
 00#VERS#CLENGTH##: 298184
 00#VERS#LENGTH###: 69446
 00#VERS#URI######: 0672MakinIbnCamid.TarikhMuslimin.Kraken22032302241501-ara1
-80#VERS#BASED####: NOT_FOUND
-80#VERS#COLLATED#: 
+80#VERS#BASED####: https://search.worldcat.org/title/658078846
+80#VERS#COLLATED#: https://www.jstor.org/stable/pdf/41603260.pdf?refreqid=fastly-default%3A1327623b9e2e18b342df247928816eaa&ab_segments=&initiator=&acceptTC=1
 80#VERS#LINKS####: https://www.roger-pearse.com/weblog/wp-
     content/uploads/2015/03/complete-Makin.pdf
-90#VERS#ANNOTATOR: 
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: OCRed through Kraken:
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
     * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
     NOTE: Title according to GAL; change to Taʾrīkh al-muslimīn; transcription of
     https://menadoc.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:5-21487 ?
-    All paratextual elements
-    (introductions, footnotes, indices, ...)
-    removed by HRH and MGR (OpenITI Clean operation, 2023)
-    Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0675AH/pre-clean/data/0672MakinIbnCamid/0672MakinIbnCamid.TarikhMuslimin/0672MakinIbnCamid.TarikhMuslimin.Kraken22032302241501-ara1
+This digital text is a compilation of two separate editions of a large text, only parts of which have been edited. The first part (PageV01) currently included is Erpenius' edition of much of the section of Islamic history (years 1-513 of the Hijra). The second part (PageV02) is Claude Cahen's edition of the final section of the text (see collated link) dealing with Ayyubid and early Mamluk history. The text of the latter section uploaded by Rogger Pearse was incomplete, so the remainder was OCR'd with eScriptorium. Gowaart then cleaned up and annotated the file and tagged poetry (though the hemistich splitters is likely often in the wrong place as Erpenius' edition formats the poetry without indicating this). Some pages from the Erpenius text are still missing from the digital text, but generally the Erpenius edition is rather messy with some mistaken pagination, so this should likely be looked at more thoroughly at some point.
+A large part of the text dealing with pre-Islamic history was recently published by Martino Diez with Brill (https://brill.com/display/title/65043?language=en) and might be added to the text in the future.
 90#VERS#DATE#####: 2022-03-23
-90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: UNCORRECTED_OCR
